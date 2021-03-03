@@ -1,5 +1,5 @@
-if(true==true){
-    return true
+if((true==true)==(true==true)){
+    return true==true
 } else {
     world.close();
 }
