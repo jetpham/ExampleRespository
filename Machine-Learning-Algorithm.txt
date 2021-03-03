@@ -1,5 +1,5 @@
 if(true==true){
     return true
 } else {
-    reuturn false
+    world.close();
 }
